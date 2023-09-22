@@ -154,7 +154,7 @@ html {
 }
 
 .tallo {
-    background: linear-gradient(to top, #43573e, #43573e, #667266);
+    background: linear-gradient(to top, #8B4513, #8CCB5E);
     position: absolute;
     top: 25%;
     left: 45%;
@@ -164,7 +164,7 @@ html {
 }
 
 .hoja1 {
-    background: linear-gradient(to right bottom, #667266, #313408, #667266);
+    background: linear-gradient(to right bottom, #556B2F, #8CCB5E);
     width: 20%;
     height: 10%;
     position: absolute;
@@ -177,7 +177,7 @@ html {
 }
 
 .hoja2 {
-    background: linear-gradient(to right bottom, #667266, #313408, #667266);
+    background: linear-gradient(to right bottom, #556B2F, #8CCB5E);
     width: 20%;
     height: 10%;
     position: absolute;
@@ -191,7 +191,7 @@ html {
 }
 
 .hoja3 {
-    background: linear-gradient(to right bottom, #667266, #313408, #667266);
+    background: linear-gradient(to right bottom, #556B2F, #8CCB5E);
     width: 20%;
     height: 10%;
     position: absolute;
@@ -204,7 +204,7 @@ html {
 }
 
 .hoja4 {
-    background: linear-gradient(to right bottom, #667266, #313408, #667266);
+    background: linear-gradient(to right bottom, #556B2F, #8CCB5E);
     width: 20%;
     height: 10%;
     position: absolute;
